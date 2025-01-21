@@ -7,11 +7,9 @@ This project focuses on cleaning and transforming a dataset containing informati
 
 To clean and organize the Nashville housing dataset to enhance its usability for downstream analysis, including:
 
-  -Normalizing property and owner address data.
-  
-  -Standardizing binary values (e.g., "Y" and "N" to "Yes" and "No").
-  
-  -Removing duplicate records and unused columns to improve data integrity.
+  1. Normalizing property and owner address data.
+  2. Standardizing binary values (e.g., "Y" and "N" to "Yes" and "No").
+  3. Removing duplicate records and unused columns to improve data integrity.
 
 **Purpose**
 
